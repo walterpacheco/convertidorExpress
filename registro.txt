@@ -1,0 +1,7 @@
+
+A la fecha: Fri Sep 13 2024 22:06:27 GMT-0300 (hora de verano de Chile)
+Fue realizada cotización con los siguientes datos:
+Cantidad de pesos a convertir: 250000 pesos
+Convertido a "dolar" da un total de:
+$267.79
+        
